@@ -1,0 +1,6 @@
+d:\Profiles\lgautier\Documents\Visual Studio 2017\Projects\Cognitive-Speech-TTS-master\Samples-Http\CSharp\bin\Debug\CognitiveServicesTTS.exe.config
+d:\Profiles\lgautier\Documents\Visual Studio 2017\Projects\Cognitive-Speech-TTS-master\Samples-Http\CSharp\bin\Debug\CognitiveServicesTTS.exe
+d:\Profiles\lgautier\Documents\Visual Studio 2017\Projects\Cognitive-Speech-TTS-master\Samples-Http\CSharp\bin\Debug\CognitiveServicesTTS.pdb
+d:\Profiles\lgautier\Documents\Visual Studio 2017\Projects\Cognitive-Speech-TTS-master\Samples-Http\CSharp\obj\Debug\CognitiveServicesTTS.csprojResolveAssemblyReference.cache
+d:\Profiles\lgautier\Documents\Visual Studio 2017\Projects\Cognitive-Speech-TTS-master\Samples-Http\CSharp\obj\Debug\CognitiveServicesTTS.exe
+d:\Profiles\lgautier\Documents\Visual Studio 2017\Projects\Cognitive-Speech-TTS-master\Samples-Http\CSharp\obj\Debug\CognitiveServicesTTS.pdb
